@@ -3,7 +3,7 @@
 
 The goal of this project was to understand the working of the Document Object Model (DOM) and implementation of JavaScript in websites.
 
-### The things I learnt to use as I created this project:
+## What I learnt
 
 - JavaScript
 - The Document Object Model (DOM)
